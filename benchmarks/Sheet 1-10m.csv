@@ -1,0 +1,6 @@
+,pandas,spark local,spark yarn
+task1,0.12,43.845,137.986
+task2,115.372,fail,fail
+task3,14.72,fail,fail
+task4,38.207,fail,fail
+task5,1.243,47.805,130.908
